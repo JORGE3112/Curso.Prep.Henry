@@ -302,7 +302,7 @@ function continueStatement(numero) {
 
       }
 
-          return arrayNuevo;
+           arrayNuevo;
 
 
 }
